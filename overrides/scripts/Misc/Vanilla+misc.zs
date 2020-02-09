@@ -92,9 +92,6 @@ recipes.addShaped(<minecraft:fire_charge>,
  [<minecraft:stick>, <minecraft:wheat>, <minecraft:stick>], 
  [null, <minecraft:stick>, null]]);
 
-#high oven
-recipes.remove(<tcomplement:high_oven_controller>);
-
 #fluxcore
 recipes.remove(<fluxnetworks:fluxcore>);
 
